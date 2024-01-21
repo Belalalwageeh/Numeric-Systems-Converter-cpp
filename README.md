@@ -25,7 +25,7 @@ This C++ program allows users to convert numbers between different numeral syste
 ```bash
 g++ -o number_converter number_converter.cpp
 ./number_converter
-
+مثال لعملية التنفيذ
 
 أدخل النظام (2 للنظام الثنائي، 8 للنظام الثماني، 10 للنظام العشري، 16 للنظام السداسي عشري):
 10
